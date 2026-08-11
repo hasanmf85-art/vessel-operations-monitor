@@ -1,0 +1,11 @@
+C:\Users\hasan.fawzi\RiderProjects\VesselOperationsMonitor\src\VesselOperationsMonitor.Domain\bin\Debug\net10.0\VesselOperationsMonitor.Domain.deps.json
+C:\Users\hasan.fawzi\RiderProjects\VesselOperationsMonitor\src\VesselOperationsMonitor.Domain\bin\Debug\net10.0\VesselOperationsMonitor.Domain.dll
+C:\Users\hasan.fawzi\RiderProjects\VesselOperationsMonitor\src\VesselOperationsMonitor.Domain\bin\Debug\net10.0\VesselOperationsMonitor.Domain.pdb
+C:\Users\hasan.fawzi\RiderProjects\VesselOperationsMonitor\src\VesselOperationsMonitor.Domain\obj\Debug\net10.0\VesselOperationsMonitor.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan.fawzi\RiderProjects\VesselOperationsMonitor\src\VesselOperationsMonitor.Domain\obj\Debug\net10.0\VesselOperationsMonitor.Domain.AssemblyInfoInputs.cache
+C:\Users\hasan.fawzi\RiderProjects\VesselOperationsMonitor\src\VesselOperationsMonitor.Domain\obj\Debug\net10.0\VesselOperationsMonitor.Domain.AssemblyInfo.cs
+C:\Users\hasan.fawzi\RiderProjects\VesselOperationsMonitor\src\VesselOperationsMonitor.Domain\obj\Debug\net10.0\VesselOperationsMonitor.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hasan.fawzi\RiderProjects\VesselOperationsMonitor\src\VesselOperationsMonitor.Domain\obj\Debug\net10.0\VesselOperationsMonitor.Domain.dll
+C:\Users\hasan.fawzi\RiderProjects\VesselOperationsMonitor\src\VesselOperationsMonitor.Domain\obj\Debug\net10.0\refint\VesselOperationsMonitor.Domain.dll
+C:\Users\hasan.fawzi\RiderProjects\VesselOperationsMonitor\src\VesselOperationsMonitor.Domain\obj\Debug\net10.0\VesselOperationsMonitor.Domain.pdb
+C:\Users\hasan.fawzi\RiderProjects\VesselOperationsMonitor\src\VesselOperationsMonitor.Domain\obj\Debug\net10.0\ref\VesselOperationsMonitor.Domain.dll
