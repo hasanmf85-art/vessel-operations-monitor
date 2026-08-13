@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\VesselOperationsMonitor.Domain\VesselOperationsMonitor.Domain.csproj" />
+    <ProjectReference Include="..\..\src\VesselOperationsMonitor.Application\VesselOperationsMonitor.Application.csproj" />
   </ItemGroup>
 
 </Project>

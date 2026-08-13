@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>dotnet-VesselOperationsMonitor.Worker-0a444993-0779-4cab-b858-01470817123f</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VesselOperationsMonitor.Application\VesselOperationsMonitor.Application.csproj" />
+    <ProjectReference Include="..\VesselOperationsMonitor.Infrastructure\VesselOperationsMonitor.Infrastructure.csproj" />
+  </ItemGroup>
+</Project>

@@ -2,10 +2,5 @@
 
 public enum SensorType
 {
-    Temperature,
-    Pressure,
-    Rpm,
-    FuelConsumption,
-    Voltage,
-    Current
+    Temperature, Pressure, FuelFlow, Speed, Position
 }

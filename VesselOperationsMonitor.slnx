@@ -1,8 +1,15 @@
 <Solution>
   <Folder Name="/src/">
+    <Project Path="src/VesselOperationsMonitor.Api/VesselOperationsMonitor.Api.csproj" />
+    <Project Path="src/VesselOperationsMonitor.Application/VesselOperationsMonitor.Application.csproj" />
     <Project Path="src/VesselOperationsMonitor.Domain/VesselOperationsMonitor.Domain.csproj" />
+    <Project Path="src/VesselOperationsMonitor.Infrastructure/VesselOperationsMonitor.Infrastructure.csproj" />
+    <Project Path="src/VesselOperationsMonitor.Worker/VesselOperationsMonitor.Worker.csproj" />
   </Folder>
   <Folder Name="/tests/">
     <Project Path="tests/VesselOperationsMonitor.Domain.Tests/VesselOperationsMonitor.Domain.Tests.csproj" />
+  </Folder>
+  <Folder Name="/tools/">
+    <Project Path="tools/VesselOperationsMonitor.Simulator/VesselOperationsMonitor.Simulator.csproj" />
   </Folder>
 </Solution>
